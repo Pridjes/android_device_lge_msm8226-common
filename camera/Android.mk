@@ -13,6 +13,7 @@ LOCAL_C_INCLUDES := \
 LOCAL_SHARED_LIBRARIES := \
 	    libhardware \
 	    liblog \
+	    libgui \
 	    libcamera_client \
 	    libhidltransport \
 	    libutils \
